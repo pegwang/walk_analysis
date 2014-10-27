@@ -1,0 +1,77 @@
+Date
+Number of game
+Day of week
+Visiting team
+Visiting league
+Visiting team game number
+Home team
+Home league
+Home team game number
+visiting team score
+home team score
+Length of game in outs
+Day/night
+Completion information
+Forfeit information
+Protest information
+Park ID
+Attendance
+Time of game in minutes
+Visiting line score
+Home line score
+at bats
+hits
+doubles
+triples
+homeruns
+RBI
+sacrifice hits
+sacrifice flies
+hit-by-pitch
+walks
+intentional walks
+strikeouts
+stolen bases
+caught stealing
+grounded into double plays
+awarded first on catchers interference
+left on base
+pitchers used
+individual earned runs
+team earned runs
+wild pitches
+balks
+putouts
+assists
+errors
+passed balls
+double plays
+triple plays
+at bats
+hits
+doubles
+triples
+homeruns
+RBI
+sacrifice hits
+sacrifice flies
+hit-by-pitch
+walks
+intentional walks
+strikeouts
+stolen bases
+caught stealing
+grounded into double plays
+awarded first on catchers interference
+left on base
+pitchers used
+individual earned runs
+team earned runs
+wild pitches
+balks
+putouts
+assists
+errors
+passed balls
+double plays
+triple plays
